@@ -1,0 +1,13 @@
+rtl/simon_const_pkg.sv
+rtl/lfsr_multi_config.sv
+rtl/simon_seq_gen.sv
+rtl/simon_round.sv
+rtl/simon_key_schedule.sv
+rtl/simon_core.sv
+rtl/simon_ctrl_fsm.sv
+rtl/simon_top.sv
+
+tb-sv/tb_crypto_item_pkg.sv
+tb-sv/tb_top.sv
+
+tb-c/simon.c
